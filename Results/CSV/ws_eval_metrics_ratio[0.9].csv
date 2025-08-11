@@ -1,0 +1,2 @@
+stage,metrics/precision,metrics/recall,metrics/mAP_0.5,metrics/mAP_0.5:0.95,val/box_loss,val/obj_loss,val/cls_loss,imgsz,batch
+pruned+WS,0.0005953641569533404,0.005068773228915182,0.00038651187828353897,0.00017803339831396506,0.0,0.0,0.0,640,16
